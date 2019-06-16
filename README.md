@@ -1,0 +1,2 @@
+# SupervisedLearningPR
+Pattern Recognition Algorithms
